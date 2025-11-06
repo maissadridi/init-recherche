@@ -1,0 +1,21 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements
+.env
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Outputs
+*.json
+*.xml
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
